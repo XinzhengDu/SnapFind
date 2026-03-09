@@ -2,7 +2,9 @@
 Find any moment in video, with one sentence.
 
 ## System Compatibility
-This software is compatible with the smallest model. For **higher accuracy**, you should use the 4B-parameter model, available at: https://github.com/XinzhengDu/SnapFind_4B
+This software is compatible with the smallest model. For **higher accuracy**, you should use the 4B-parameter model, available at:
+https://github.com/XinzhengDu/SnapFind_4B
+
 This software is **only available for Windows**. For Mac or Linux users, please use the Python version:  
 https://github.com/XinzhengDu/SnapFind_Python  
 
