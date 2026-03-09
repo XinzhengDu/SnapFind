@@ -6,8 +6,8 @@ This software is **only available for Windows**. For Mac or Linux users, please 
 https://github.com/XinzhengDu/SnapFind_Python  
 
 ## Open Source & Technical Basis
-This software is built on siglip2 and follows open-source principles. The source code before compilation is available at:  
-https://github.com/XinzhengDu/SnapFind_C  
+The source code before compilation is available at:  
+https://github.com/XinzhengDu/SnapFind_Python  
 
 ## 100% Local Execution (Privacy Compliance)
 Core Logic: All video parsing, model inference, and content retrieval are processed **entirely on the user's device**.  
