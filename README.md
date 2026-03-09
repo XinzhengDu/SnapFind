@@ -29,7 +29,7 @@ Before use, you must download the following model and tokenizer files:
 - tokenizer.json  
 
 Download link: https://www.modelscope.cn/models/XinzhengDu/siglip2-base-patch16-224-onnx/files  
-Place all files in the `model` folder.
+Place all files in the `models` folder.
 
 ## Beta Features (Currently Available)
 1. Content matching: Match search terms with videos, images, and documents. Queries support descriptions of time, location, people, and scenarios.  
