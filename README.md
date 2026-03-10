@@ -28,7 +28,7 @@ Before use, you must download the following model and tokenizer files:
 - siglip_text.onnx  
 - tokenizer.json  
 
-Download link: https://www.modelscope.cn/models/XinzhengDu/siglip2-base-patch16-224-onnx/files  
+Download link: https://www.modelscope.cn/models/XinzhengDu/siglip2-base-patch16-224-onnx/files  Right-click the file name and select Download.
 Place all files in the `models` folder.
 
 ## Beta Features (Currently Available)
